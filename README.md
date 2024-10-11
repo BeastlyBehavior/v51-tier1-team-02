@@ -42,7 +42,7 @@ coding!
 - Carina Young: https://github.com/carinawyoung / https://www.linkedin.com/in/carina-w-young/
 - Valerie Labi: https://github.com/val-ue / https://www.linkedin.com/in/valerielabideveloper/
 - Molly Brown: https://github.com/learningcoding2022 / https://www.linkedin.com/in/molly-b-97877492/
-
+Charmayne Knox: https:/:www.linkedin.com/in/charmayneknox
   ...
 
 - Teammate name #n: [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)
